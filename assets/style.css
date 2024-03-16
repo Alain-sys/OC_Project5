@@ -6,6 +6,11 @@ body {
 	font-family: 'Inter';
 	font-style: normal;
 }
+
+body img {
+	height: auto;
+}
+
 header {
 	background-color: white;
 	position: sticky;
